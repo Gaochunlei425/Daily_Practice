@@ -1,0 +1,5 @@
+com\gcl\module\controller\PermissionController.class
+com\gcl\module\controller\ProductController.class
+com\gcl\module\controller\RoleController.class
+com\gcl\module\controller\OrdersController.class
+com\gcl\module\controller\UserController.class

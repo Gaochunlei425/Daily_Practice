@@ -1,0 +1,8 @@
+com\gcl\module\domain\Orders.class
+com\gcl\module\domain\Role.class
+com\gcl\module\domain\SysLog.class
+com\gcl\module\domain\Product.class
+com\gcl\module\domain\UserInfo.class
+com\gcl\module\domain\Member.class
+com\gcl\module\domain\Permission.class
+com\gcl\module\domain\Traveller.class

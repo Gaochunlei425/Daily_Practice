@@ -1,0 +1,8 @@
+com\gcl\module\dao\IRoleDao.class
+com\gcl\module\dao\IUserDao.class
+com\gcl\module\dao\ITravellerDao.class
+com\gcl\module\dao\IPermissionDao.class
+com\gcl\module\dao\IProductDao.class
+com\gcl\module\dao\IMemberDao.class
+com\gcl\module\dao\ISysLogDao.class
+com\gcl\module\dao\IOrdersDao.class

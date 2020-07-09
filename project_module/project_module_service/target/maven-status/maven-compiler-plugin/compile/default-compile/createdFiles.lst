@@ -1,0 +1,10 @@
+com\gcl\module\service\impl\RoleServiceimpl.class
+com\gcl\module\service\IUserService.class
+com\gcl\module\service\impl\OrdersServiceImpl.class
+com\gcl\module\service\IProductService.class
+com\gcl\module\service\impl\IPermissionServiceImpl.class
+com\gcl\module\service\IOrdersService.class
+com\gcl\module\service\impl\UserServiceImpl.class
+com\gcl\module\service\IPermissionService.class
+com\gcl\module\service\impl\ProductServiceImpl.class
+com\gcl\module\service\IRoleService.class
